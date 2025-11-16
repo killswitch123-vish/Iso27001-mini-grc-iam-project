@@ -1,4 +1,4 @@
-# ISO 27001 Mini GRC & IAM Project
+# ISO 27001 Mini GRC Project
 
 This mini-project is part of my **100-day journey into GRC, IAM, and AI security**.  
 The goal was to practise reading **ISO 27001:2022 Annex A controls**, translate them into
